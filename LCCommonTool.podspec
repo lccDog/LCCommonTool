@@ -92,7 +92,7 @@ Pod::Spec.new do |s|
   #
 
   # s.source_files  = "Classes", "Classes/**/*.{h,m}"
-  s.source_files  = "LCCommonTool","CommonTool/*.{h,m}"
+  s.source_files  = "LCCommonTool","CommonTool/**/*.{h,m}"
 
   s.exclude_files = ""
 
